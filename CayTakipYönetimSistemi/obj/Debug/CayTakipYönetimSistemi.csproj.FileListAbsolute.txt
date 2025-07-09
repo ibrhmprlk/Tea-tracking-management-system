@@ -1,0 +1,52 @@
+C:\Users\ibrah\OneDrive\Desktop\c#\CayTakipYönetimSistemi\CayTakipYönetimSistemi\bin\Debug\CayTakipYönetimSistemi.exe.config
+C:\Users\ibrah\OneDrive\Desktop\c#\CayTakipYönetimSistemi\CayTakipYönetimSistemi\bin\Debug\CayTakipYönetimSistemi.exe
+C:\Users\ibrah\OneDrive\Desktop\c#\CayTakipYönetimSistemi\CayTakipYönetimSistemi\bin\Debug\CayTakipYönetimSistemi.pdb
+C:\Users\ibrah\OneDrive\Desktop\c#\CayTakipYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.csproj.AssemblyReference.cache
+C:\Users\ibrah\OneDrive\Desktop\c#\CayTakipYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.Form1.resources
+C:\Users\ibrah\OneDrive\Desktop\c#\CayTakipYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.Kayit.resources
+C:\Users\ibrah\OneDrive\Desktop\c#\CayTakipYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Desktop\c#\CayTakipYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.csproj.GenerateResource.cache
+C:\Users\ibrah\OneDrive\Desktop\c#\CayTakipYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Desktop\c#\CayTakipYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.exe
+C:\Users\ibrah\OneDrive\Desktop\c#\CayTakipYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.pdb
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\bin\Debug\CayTakipYönetimSistemi.exe.config
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\bin\Debug\CayTakipYönetimSistemi.exe
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\bin\Debug\CayTakipYönetimSistemi.pdb
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.Form1.resources
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.Kayit.resources
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.Properties.Resources.resources
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.exe
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.pdb
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakiYönetimSistemi\CayTakipYönetimSistemi\bin\Debug\CayTakipYönetimSistemi.exe.config
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakiYönetimSistemi\CayTakipYönetimSistemi\bin\Debug\CayTakipYönetimSistemi.exe
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakiYönetimSistemi\CayTakipYönetimSistemi\bin\Debug\CayTakipYönetimSistemi.pdb
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakiYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakiYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.Form1.resources
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakiYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.Kayit.resources
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakiYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.PersonelGiris.resources
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakiYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.Properties.Resources.resources
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakiYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakiYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakiYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.exe
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakiYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.pdb
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakiYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.Personel.resources
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakiYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.PersonelEkle.resources
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakiYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.AlimBilgileri.resources
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\CayTakipYönetimSistemi\bin\Debug\CayTakipYönetimSistemi.exe.config
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\CayTakipYönetimSistemi\bin\Debug\CayTakipYönetimSistemi.exe
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\CayTakipYönetimSistemi\bin\Debug\CayTakipYönetimSistemi.pdb
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.AlimBilgileri.resources
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.Form1.resources
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.Kayit.resources
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.Personel.resources
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.PersonelEkle.resources
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.PersonelGiris.resources
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.Properties.Resources.resources
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.exe
+C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\CayTakipYönetimSistemi\CayTakipYönetimSistemi\obj\Debug\CayTakipYönetimSistemi.pdb
